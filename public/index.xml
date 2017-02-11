@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Confirm4Crit</title>
+    <link>http://Confirm4Crit.com/</link>
+    <description>Recent content on Confirm4Crit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 03 Jan 2017 12:29:03 -0400</lastBuildDate>
+    <atom:link href="http://Confirm4Crit.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Goals of 2017</title>
+      <link>http://confirm4crit.com/post/2017-Goals/</link>
+      <pubDate>Tue, 03 Jan 2017 12:29:03 -0400</pubDate>
+      
+      <guid>http://confirm4crit.com/post/2017-Goals/</guid>
+      <description>&lt;p&gt;Just wanted to write down a few things I intend to do in the new year. Only really writing it down to make myself obligated to it.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Complete some web stack development courses on PluralSight. It&amp;rsquo;s been a while since I touched Angular,Django, and I wouldn&amp;rsquo;t mind getting something done from start to finish.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Get a basic app up and running on iOS from scratch. I&amp;rsquo;ve ported Unity stuff to iOS, but nothing much else.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Participate in more game jams. I think I did .5 game jams last year, let&amp;rsquo;s see if I can bump that up a little. It certainly helped me explore stuff and fail faster, especially in VR.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Sub goal: Hopefully one of the above spins to a pet project that I grind out more on.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Start streaming more. Don&amp;rsquo;t really know what game, or when, but I enjoyed what little I did in 2016.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Maybe do a speed run of something? Not expecting anything close, just wouldn&amp;rsquo;t mind chasing at a record of something for a bit, even if I have no chance to get it.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Cut soda.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hugo Impressions</title>
+      <link>http://confirm4crit.com/post/Hugo-Impressions/</link>
+      <pubDate>Thu, 20 Oct 2016 12:29:03 -0400</pubDate>
+      
+      <guid>http://confirm4crit.com/post/Hugo-Impressions/</guid>
+      <description>&lt;p&gt;Been fiddling with Hugo the past week, tweaking the site here and there to fit what I need.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s been exciting hosting my own little site to hold all of &lt;strong&gt;me&lt;/strong&gt;. Resume, portfolio, personal thoughts, etc. I had too much moving around, Tumblr, Twitter, all my AscendedAlpaca blogs, etc. Nice just to have it all &lt;em&gt;here&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;I also got my first pull request excepted. It&amp;rsquo;s insignificant, but it was need feeling contributing to a project.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/yoshiharuyamashita/blackburn/pull/31&#34;&gt;Here it is&lt;/a&gt;, if anyone cares. I added a Tumblr social link on my own to the side bar, so I figured to slap in on the main theme, and it got accepted.&lt;/p&gt;
+
+&lt;p&gt;Feels neat.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My First Post with Hugo</title>
+      <link>http://confirm4crit.com/post/My-First-Post-with-Hugo/</link>
+      <pubDate>Tue, 04 Oct 2016 18:55:48 -0400</pubDate>
+      
+      <guid>http://confirm4crit.com/post/My-First-Post-with-Hugo/</guid>
+      <description>&lt;p&gt;This is my first post fiddling with Hugo. Seems like a great tool for this blog. &lt;strong&gt;Yay!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://confirm4crit.com/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://confirm4crit.com/about/</guid>
+      <description>&lt;p&gt;Miles Robson,Software Developer&lt;/p&gt;
+
+&lt;p&gt;Miles, like &lt;a href=&#34;https://www.poetryfoundation.org/poems-and-poets/poems/detail/42891&#34;&gt;Stopping by Woods on a Snowy Evening&lt;/a&gt; by Robert Frost.&lt;/p&gt;
+
+&lt;p&gt;This site is a home for my projects, portfolios, and development thoughts.&lt;/p&gt;
+
+&lt;p&gt;Feel free to send me an &lt;a href=&#34;mailto:miles_robson@yahoo.com&#34;&gt;e-mail @ miles_robson@yahoo.com&lt;/a&gt; if you want to get a hold of me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Miles Robson&#39;s Resume</title>
+      <link>http://confirm4crit.com/resume/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://confirm4crit.com/resume/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://docs.google.com/document/d/1JyuxOFC4lN1gK0rXX68fhmx2x7PqVU-9-eq-Ynr2WJs/edit?usp=sharing&#34;&gt;Google Drive file here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WORK EXPERIENCE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Office Depot - Associate Developer - Boca Raton, FL&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Sept 2015 - Present&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Development of Vendavo compliance and pricing application, primarily through VSL and VQL&lt;/li&gt;
+&lt;li&gt;Datastage, PLSQL, and KSH batch job scripts, along with AS400 batch job development.&lt;/li&gt;
+&lt;li&gt;Exposure to SalesForce/APEX&lt;/li&gt;
+&lt;li&gt;Received Innovation award in Q3 2016&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Key Brand Entertainment - Software Developer 1 - Fort Lauderdale, FL&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;May 2015 - Sept 2015&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Development of RDLC, ASPX, JS and C# WCF services.&lt;/li&gt;
+&lt;li&gt;Experience in MSSQL development, stored procs and table amendments.&lt;/li&gt;
+&lt;li&gt;Unit testing and agile feedback,JIRA and TFS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;SKILLS AND QUALIFICATIONS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Programming Languages: C++, C#, Java, Motorola 68000 assembly language, APEX/Salesforce&lt;/li&gt;
+&lt;li&gt;Database Techniques: SQL,  PL-SQL, MSSQL, DataStage&lt;/li&gt;
+&lt;li&gt;Web: Html, Javascript, PHP&lt;/li&gt;
+&lt;li&gt;Development Tools: MS Visual Studio, NetBeans, Oracle SQLDeveloper, GitHub, SVN&lt;/li&gt;
+&lt;li&gt;Game Development tools: Unity, Hammer editor, Unreal editor, RPG editor.&lt;/li&gt;
+&lt;li&gt;Object Oriented Design, development with AGILE and waterfall.&lt;/li&gt;
+&lt;li&gt;Photoshop CS5 Certified.&lt;/li&gt;
+&lt;li&gt;Experience working user stories with business users to excellent results.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;NOTABLE SCHOOL PROJECT WORK&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implemented a binary-encoded image manipulator using Motorola 68000 assembly language&lt;/li&gt;
+&lt;li&gt;Created a basic shopping website using HTML. JavaScript, and PHP&lt;/li&gt;
+&lt;li&gt;Aided in develop of senior aid Android app, exploring entire development process with SCRUM. I managed research of falling deception algorithms and implementation, and senior usability research.&lt;/li&gt;
+&lt;li&gt;Created shopping cart application in Java demonstration design patterns and OOD. I managed Oracle SQL tables, PLSQL Stored Procedures and Triggers, and JDBC implementation, along with SWING UI design and UML modeling throughout the project.  &lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;ascendedalpaca.com&#34;&gt;Ascended Alpaca&lt;/a&gt;, my label for small Unity3D games.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;EDUCATION&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Florida Atlantic University – Boca Raton, FL 2013-2015 Bachelor of Science in Computer Science GPA: 3.4
+
+&lt;ul&gt;
+&lt;li&gt;Inducted into Upsilon Pi Epsilon International Computer Science Honor Society    (Top 10% of class 2014)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/document/d/1JyuxOFC4lN1gK0rXX68fhmx2x7PqVU-9-eq-Ynr2WJs/edit?usp=sharing&#34;&gt;Google Drive file here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>http://confirm4crit.com/portfolio/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://confirm4crit.com/portfolio/</guid>
+      <description>&lt;p&gt;Examples of smaller projects on my &lt;a href=&#34;https://github.com/Confirm4Crit?tab=repositories&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/Confirm4Crit/OODShoppingCartProject&#34;&gt;Shopping Cart Application&lt;/a&gt; (&lt;a href=&#34;https://github.com/Confirm4Crit/OODShoppingCartProject&#34;&gt;OOD Final project&lt;/a&gt;)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Group project involving creating a shopping cart app in Java, using SWING, JDBC.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://Confirm4Crit.com/static/cart.png&#34; alt=&#34;Example image&#34; /&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.dropbox.com/s/w30ucirn6on4xsc/lofton_expo_handout_16%20copy.pdf?dl=0&#34;&gt;Katrina (PRINCIPLES OF SOFTWARE ENGINEERING FINAL PROJECT)&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;6 person group project my senior year at FAU, involving specification documentation with UML modeling, understanding of scope and stakeholders, and extreme programming exposure.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://Confirm4Crit.com/static/brochure.png&#34; alt=&#34;Example image&#34; /&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.milesrobson.com/s/lofton_expo_handout_16-copy.pdf&#34;&gt;Project Brochure&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;GreedIsGood&lt;/strong&gt; &lt;/p&gt;
+
+&lt;p&gt;Quick reflex based arcade game. Updated &lt;a href=&#34;https://www.dropbox.com/s/jgskamlq297cx4h/greedIsGood.zip?dl=0&#34;&gt;DropBox build here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://Confirm4Crit.com/static/greedIsGood.jpg&#34; alt=&#34;Example image&#34; /&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;EverCatch&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Game created in about 2-3 hours total for the 2014 SpeccyJam, creating a game restricted to the styling and ability of the ZX Spectrum.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://Confirm4Crit.com/static/evercatch.png&#34; alt=&#34;Example image&#34; /&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ascendedalpaca.itch.io/evercatch&#34;&gt;Playable web build here (Unity Required).&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://ascendedalpaca.itch.io/evercatch&#34;&gt;Downloadable build here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

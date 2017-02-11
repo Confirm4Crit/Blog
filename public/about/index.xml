@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Confirm4Crit</title>
+    <link>http://Confirm4Crit.com/about/</link>
+    <description>Recent content in Abouts on Confirm4Crit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <atom:link href="http://Confirm4Crit.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://confirm4crit.com/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://confirm4crit.com/about/about/</guid>
+      <description>&lt;p&gt;Miles Robson,Software Developer&lt;/p&gt;
+
+&lt;p&gt;Miles, like &lt;a href=&#34;https://www.poetryfoundation.org/poems-and-poets/poems/detail/42891&#34;&gt;Stopping by Woods on a Snowy Evening&lt;/a&gt; by Robert Frost.&lt;/p&gt;
+
+&lt;p&gt;If you want to look at my public social profiles, here&amp;rsquo;s my &lt;a href=&#34;https://twitter.com/confirm4crit&#34;&gt;Twitter&lt;/a&gt;, and &lt;a href=&#34;http://confirm4crit.tumblr.com/&#34;&gt;Tumblr&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And feel free to send me an &lt;a href=&#34;mailto:confirm4crit@gmail.com&#34;&gt;e-mail&lt;/a&gt; if you want to get a hold of me.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

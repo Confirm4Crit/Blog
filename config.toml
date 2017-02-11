@@ -1,0 +1,79 @@
+baseurl = "http://Confirm4Crit.com/"
+title = "Confirm4Crit"
+author = "Confirm4Crit"
+# Shown in the side menu
+canonifyurls = true
+paginate = 10
+
+[indexes]
+  tag = "tags"
+  topic = "topics"
+
+[params]
+  # Shown in the home page
+  brand = "Confirm4Crit"
+  # CSS name for highlight.js
+  highlightjs = "androidstudio"
+  dateFormat = "02 Jan 2006, 15:04"
+  # Include any custom CSS and/or JS files
+  # (relative to /static folder)
+  custom_css = ["css/my.css"]
+  custom_js = ["js/my.js"]
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 0
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 1
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "Tags"
+    pre = "<i class='fa fa-tags fa-fw'></i>"
+    weight = 1
+    identifier = "tags"
+    url = "/tags/"
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 2
+    identifier = "about"
+    url = "/about/"		
+  [[menu.main]]
+    name = "Resume"
+    pre = "<i class='fa fa-pencil fa-fw'></i>"
+    weight = 2
+    identifier = "resume"
+    url = "/resume/"
+  [[menu.main]]
+    name = "Portfolio"
+    pre = "<i class='fa fa-book fa-fw'></i>"
+    weight = 3
+    identifier = "portfolio"
+    url = "/portfolio/"
+  [[menu.main]]
+    name = "LinkedIn"
+    pre = "<i class='fa fa-linkedin fa-fw'></i>"
+    weight = 3
+    identifier = "linkedin"
+    url = "https://linkedin.com/in/miles-robson-b4124a33"
+
+[social]
+  # Link your social networking accounts to the side menu
+  # by entering your username or ID.
+
+  # SNS microblogging
+  twitch = "Confirm4Crit"
+  github = "Confirm4Crit"
+  tumblr = "Confirm4Crit"
+  twitter = "Confirm4Crit"  
+  reddit = "Confirm4Crit"
+  steam = "Confirm4Crit"
+  youtube = "Confirm4Crit"
