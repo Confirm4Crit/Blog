@@ -1,6 +1,6 @@
 baseurl = "http://Confirm4Crit.com/"
 title = "Confirm4Crit"
-author = "Confirm4Crit"
+author = "Miles Robson"
 # Shown in the side menu
 canonifyurls = true
 paginate = 10
@@ -11,7 +11,7 @@ paginate = 10
 
 [params]
   # Shown in the home page
-  brand = "Confirm4Crit"
+  brand = "Miles Robson <br>Confirm4Crit "
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   dateFormat = "02 Jan 2006, 15:04"

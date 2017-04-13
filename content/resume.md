@@ -9,7 +9,7 @@ description = "miles_robson@yahoo.com"
 
 **WORK EXPERIENCE**
 
-**Office Depot - Associate Developer - Boca Raton, FL**
+**Office Depot - Developer - Boca Raton, FL**
 
 Sept 2015 - Present
 
