@@ -11,6 +11,12 @@
       <a class="pure-menu-link" href="https://github.com/{{ . }}" target="_blank"><i class="fa fa-github-square fa-fw"></i>GitHub</a>
     </li>
     {{ end }}
+
+    {{ with .Site.Social.linkedin }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://linkedin.com/in/{{ . }}" target="_blank"><i class="fa fa-linkedin-square fa-fw"></i>LinkedIn</a>
+    </li>
+    {{ end }}
     
     {{ with .Site.Social.twitter }}
     <li class="pure-menu-item">
@@ -102,11 +108,6 @@
 
     <!-- SNS career oriented -->
 
-    {{ with .Site.Social.linkedin }}
-    <li class="pure-menu-item">
-      <a class="pure-menu-link" href="https://linkedin.com/in/{{ . }}" target="_blank"><i class="fa fa-linkedin-square fa-fw"></i>LinkedIn</a>
-    </li>
-    {{ end }}
 
     {{ with .Site.Social.xing }}
     <li class="pure-menu-item">

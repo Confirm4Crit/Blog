@@ -58,12 +58,6 @@ paginate = 10
     weight = 3
     identifier = "portfolio"
     url = "/portfolio/"
-  [[menu.main]]
-    name = "LinkedIn"
-    pre = "<i class='fa fa-linkedin fa-fw'></i>"
-    weight = 3
-    identifier = "linkedin"
-    url = "https://linkedin.com/in/miles-robson-b4124a33"
 
 [social]
   # Link your social networking accounts to the side menu
@@ -77,3 +71,4 @@ paginate = 10
   reddit = "Confirm4Crit"
   steam = "Confirm4Crit"
   youtube = "Confirm4Crit"
+  linkedin = "miles-robson-b4124a33"
