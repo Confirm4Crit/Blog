@@ -38,6 +38,7 @@ May 2015 - Sept 2015
 
 **NOTABLE PROJECT WORK** [GitHub](https://github.com/Confirm4Crit)
 
+- This website! Hugo Static site hosted on Amazon S3, Repo here (https://github.com/Confirm4Crit/Blog)
 - Reddit clone using MEAN Stack
 - Implemented a binary-encoded image manipulator using Motorola 68000 assembly language
 - Created a basic shopping website using HTML. JavaScript, and PHP
