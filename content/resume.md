@@ -5,7 +5,7 @@ sidemenu = "false"
 description = "miles_robson@yahoo.com"
 +++
 
-[- Google Doc file -](https://docs.google.com/document/d/1JyuxOFC4lN1gK0rXX68fhmx2x7PqVU-9-eq-Ynr2WJs/edit?usp=sharing)[ - PDF file -](https://docs.google.com/document/d/1JyuxOFC4lN1gK0rXX68fhmx2x7PqVU-9-eq-Ynr2WJs/edit?usp=sharing)[ - GitHub profile -](https://github.com/Confirm4Crit)
+[- Google Doc file - ](https://docs.google.com/document/d/1JyuxOFC4lN1gK0rXX68fhmx2x7PqVU-9-eq-Ynr2WJs/edit?usp=sharing)[ - PDF file - ](https://drive.google.com/file/d/0B4ZgURhHzuGKT1lEaTBWMXZLbkU/view?usp=sharing)[ - GitHub profile -](https://github.com/Confirm4Crit)
 
 **WORK EXPERIENCE**
 
@@ -13,11 +13,13 @@ description = "miles_robson@yahoo.com"
 
 Sept 2015 - Present
 
-- Development and support of Vendavo Compliance and Pricing application, primarily through Vendavo Scripting Language and Vendavo Query Language (VSL/VQL)
-- Strong use of Datastage, PL/SQL, and KSH batch job scripts, deployed and maintained on AS400 systems. 
-- Heavy SalesForce experience, APEX and VisualForce, APEX Test Classes, and Lighting applications with JavaScript. 
+- Heavy SalesForce experience, APEX and VisualForce, APEX Test Classes, and Lighting applications with JavaScript, maintaining field level security.
+- SalesForce user maintenance and corresponding basic functions to users.
+- Built and enhanced custom SalesForce application for Sales Reps to interface with Vendavo contract pricing.
+- Development and support of Vendavo Compliance and Pricing application, primarily through Vendavo Scripting Language and Vendavo Query Language (VSL/VQL).
+- Development of ETL jobs using DataStage to import/export data from Vendavo to various sources, alongside batch processing for business logic using PL/SQL.
 - Well versed in Waterfall and Agile development cycles, business and SLA requirements.
-- Received Innovation award in Q3 2016 for design,development, and customer response of Vendavo Rebate enhancements 
+- Received Innovation award in Q3 2016 for design,development, and customer response of Vendavo Rebate enhancements
 
 **Key Brand Entertainment - Software Developer 1 - Fort Lauderdale, FL**
 
@@ -29,7 +31,7 @@ May 2015 - Sept 2015
 
 **SKILLS AND QUALIFICATIONS**
 
-- Programming Languages: C++, C#, Java, APEX/Salesforce, VSL/VQL (Vendavo application enhancement languages)
+- Programming Languages: C#, Java, APEX/Salesforce, VSL/VQL (Vendavo application enhancement languages)
 - Database Techniques: SQL,  PL-SQL, MSSQL, DataStage for ETL
 - Web: Html, Javascript, PHP, Lightning Out, light exposure to Angular 2 and ReactJS
 - Development Tools: MS Visual Studio, NetBeans, Oracle SQLDeveloper, GitHub, SVN, IntelliJ suite.

@@ -84,7 +84,7 @@
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>http://confirm4crit.com/resume/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://docs.google.com/document/d/1JyuxOFC4lN1gK0rXX68fhmx2x7PqVU-9-eq-Ynr2WJs/edit?usp=sharing&#34;&gt;- Google Doc file -&lt;/a&gt;&lt;a href=&#34;https://docs.google.com/document/d/1JyuxOFC4lN1gK0rXX68fhmx2x7PqVU-9-eq-Ynr2WJs/edit?usp=sharing&#34;&gt; - PDF file -&lt;/a&gt;&lt;a href=&#34;https://github.com/Confirm4Crit&#34;&gt; - GitHub profile -&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://docs.google.com/document/d/1JyuxOFC4lN1gK0rXX68fhmx2x7PqVU-9-eq-Ynr2WJs/edit?usp=sharing&#34;&gt;- Google Doc file - &lt;/a&gt;&lt;a href=&#34;https://drive.google.com/file/d/0B4ZgURhHzuGKT1lEaTBWMXZLbkU/view?usp=sharing&#34;&gt; - PDF file - &lt;/a&gt;&lt;a href=&#34;https://github.com/Confirm4Crit&#34;&gt; - GitHub profile -&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;WORK EXPERIENCE&lt;/strong&gt;&lt;/p&gt;
 
@@ -93,9 +93,11 @@
 &lt;p&gt;Sept 2015 - Present&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Development and support of Vendavo Compliance and Pricing application, primarily through Vendavo Scripting Language and Vendavo Query Language (VSL/VQL)&lt;/li&gt;
-&lt;li&gt;Strong use of Datastage, PL/SQL, and KSH batch job scripts, deployed and maintained on AS400 systems.&lt;/li&gt;
-&lt;li&gt;Heavy SalesForce experience, APEX and VisualForce, APEX Test Classes, and Lighting applications with JavaScript.&lt;/li&gt;
+&lt;li&gt;Heavy SalesForce experience, APEX and VisualForce, APEX Test Classes, and Lighting applications with JavaScript, maintaining field level security.&lt;/li&gt;
+&lt;li&gt;SalesForce user maintenance and corresponding basic functions to users.&lt;/li&gt;
+&lt;li&gt;Built and enhanced custom SalesForce application for Sales Reps to interface with Vendavo contract pricing.&lt;/li&gt;
+&lt;li&gt;Development and support of Vendavo Compliance and Pricing application, primarily through Vendavo Scripting Language and Vendavo Query Language (VSL/VQL).&lt;/li&gt;
+&lt;li&gt;Development of ETL jobs using DataStage to import/export data from Vendavo to various sources, alongside batch processing for business logic using PL/SQL.&lt;/li&gt;
 &lt;li&gt;Well versed in Waterfall and Agile development cycles, business and SLA requirements.&lt;/li&gt;
 &lt;li&gt;Received Innovation award in Q3 2016 for design,development, and customer response of Vendavo Rebate enhancements&lt;/li&gt;
 &lt;/ul&gt;
@@ -113,7 +115,7 @@
 &lt;p&gt;&lt;strong&gt;SKILLS AND QUALIFICATIONS&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Programming Languages: C++, C#, Java, APEX/Salesforce, VSL/VQL (Vendavo application enhancement languages)&lt;/li&gt;
+&lt;li&gt;Programming Languages: C#, Java, APEX/Salesforce, VSL/VQL (Vendavo application enhancement languages)&lt;/li&gt;
 &lt;li&gt;Database Techniques: SQL,  PL-SQL, MSSQL, DataStage for ETL&lt;/li&gt;
 &lt;li&gt;Web: Html, Javascript, PHP, Lightning Out, light exposure to Angular 2 and ReactJS&lt;/li&gt;
 &lt;li&gt;Development Tools: MS Visual Studio, NetBeans, Oracle SQLDeveloper, GitHub, SVN, IntelliJ suite.&lt;/li&gt;
