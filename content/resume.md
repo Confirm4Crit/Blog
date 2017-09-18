@@ -5,7 +5,7 @@ sidemenu = "false"
 description = "miles_robson@yahoo.com"
 +++
 
-[- Google Doc file - ](https://docs.google.com/document/d/1JyuxOFC4lN1gK0rXX68fhmx2x7PqVU-9-eq-Ynr2WJs/edit?usp=sharing)[ - PDF file - ](https://drive.google.com/file/d/0B4ZgURhHzuGKT1lEaTBWMXZLbkU/view?usp=sharing)[ - GitHub profile -](https://github.com/Confirm4Crit)
+[- Word file - ](https://drive.google.com/file/d/0B4ZgURhHzuGKUmY5VjB1blBQV0E/view?usp=sharing)[ - PDF file - ](https://drive.google.com/file/d/0B4ZgURhHzuGKNTVoeko3TEI1NlU/view?usp=sharing)[ - GitHub profile -](https://github.com/Confirm4Crit)
 
 **WORK EXPERIENCE**
 
