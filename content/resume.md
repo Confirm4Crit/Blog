@@ -13,8 +13,8 @@ description = "miles_robson@yahoo.com"
 
 Sept 2015 - Present
 
-- Heavy SalesForce experience, APEX and VisualForce, APEX Test Classes, and Lighting applications with JavaScript, maintaining field level security.
-- SalesForce user maintenance and corresponding basic functions to users.
+- Heavy SalesForce experience, APEX and VisualForce, APEX Test Classes, and Lighting applications with JavaScript
+- SalesForce user maintenance and corresponding basic functions to users, maintaining field level security.
 - Built and enhanced custom SalesForce application for Sales Reps to interface with Vendavo contract pricing.
 - Development and support of Vendavo Compliance and Pricing application, primarily through Vendavo Scripting Language and Vendavo Query Language (VSL/VQL).
 - Development of ETL jobs using DataStage to import/export data from Vendavo to various sources, alongside batch processing for business logic using PL/SQL.
@@ -31,10 +31,10 @@ May 2015 - Sept 2015
 
 **SKILLS AND QUALIFICATIONS**
 
-- Programming Languages: C#, Java, APEX/Salesforce, VSL/VQL (Vendavo application enhancement languages)
-- Database Techniques: SQL,  PL-SQL, MSSQL, DataStage for ETL
-- Web: Html, Javascript, PHP, Lightning Out, light exposure to Angular 2 and ReactJS
-- Development Tools: MS Visual Studio, NetBeans, Oracle SQLDeveloper, GitHub, SVN, IntelliJ suite.
+- Programming Languages: APEX/Salesforce, C#, Java, VSL/VQL (Vendavo application enhancement languages)
+- Database Techniques: SQL, PL-SQL, MSSQL, DataStage for ETL
+- Web: Html/VFX, Javascript, PHP, Lightning Out, light exposure to Angular 2 and ReactJS
+- Development Tools: Visual Studio, NetBeans, SQLDeveloper, GitHub, SVN, IntelliJ suite.
 - Game Development tools: Unity, Hammer editor, Unreal editor, RPG editor.
 - Photoshop CS5 Certified.
 
