@@ -1,13 +1,13 @@
 +++
 date = "2017-12-04T12:29:03-04:00"
 draft = false
-title = "Goals of 2017"
+title = "Review of 2017 Goals"
 tags = [ "Development","Projects","Twitch", "Game Jams", "Self" ]
 categories = [ "Projects", "Twitch", "Gaming" ]
 
 +++
 
-It's the time of year where you muse over a list of things you'll try to get done and fail, so let's review last year's!
+It's the time of year where you muse over a list of things you'll try to get done and fail, so let's review the last set!
 
 - Complete some web stack development courses on PluralSight. It's been a while since I touched Angular,Django, and I wouldn't mind getting something done from start to finish.
     * This kind of happened? I ended up digging into a lot of MEAN/React, and tilted over to machine learning for some work research. Need to do this with .NET Core.

@@ -1,7 +1,7 @@
 +++
 date = "2017-01-03T12:29:03-04:00"
 draft = false
-title = "Goals of 2017"
+title = "Review 2017 Goals"
 tags = [ "Development","Projects","Twitch", "Game Jams", "Self" ]
 categories = [ "Projects", "Twitch", "Gaming" ]
 
