@@ -13,7 +13,8 @@ description = "miles_robson@yahoo.com"
 
 Sept 2015 - Present
 
-- Heavy SalesForce experience, APEX and VisualForce, APEX Test Classes, and Lighting applications with JavaScript
+- Heavy SalesForce experience, APEX and VisualForce, APEX Test Classes, Lighting applications with JavaScript supporting Office Depot B2B sales reps, deployment, and reporting.
+- Support of custom built processes such as review screens sales reps to interface with B2B contract pricing, backend deduplication and data quality processes, and automated business rules for customer notifications.
 - SalesForce user maintenance and corresponding basic functions to users, maintaining field level security.
 - Built and enhanced custom SalesForce application for Sales Reps to interface with Vendavo contract pricing.
 - Development and support of Vendavo Compliance and Pricing application, primarily through Vendavo Scripting Language and Vendavo Query Language (VSL/VQL).
