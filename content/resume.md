@@ -20,15 +20,14 @@ Sept 2015 - Present
 - Development and support of Vendavo Compliance and Pricing application, primarily through Vendavo Scripting Language and Vendavo Query Language (VSL/VQL).
 - Development of ETL jobs using DataStage to import/export data from Vendavo to various sources, alongside batch processing for business logic using PL/SQL.
 - Well versed in Waterfall and Agile development cycles, business and SLA requirements.
-- Received Innovation award in Q3 2016 for design,development, and customer response of Vendavo Rebate enhancements
+- Received Innovation award in Q3 2016 for design, development, and customer response of Vendavo Rebate enhancements.
 
 **Key Brand Entertainment - Software Developer 1 - Fort Lauderdale, FL**
 
 May 2015 - Sept 2015
 
-- Development of RDLC, ASP.NET, JS and C# WCF services.
+- Development of RDLC, ASP.NET, JS, unit tests and C# WCF services.
 - Experience in MSSQL development, stored procs and table amendments.
-- Unit testing and agile feedback,JIRA and TFS
 
 **SKILLS AND QUALIFICATIONS**
 
@@ -53,5 +52,3 @@ May 2015 - Sept 2015
 
 - Florida Atlantic University – Boca Raton, FL 2013-2015 Bachelor of Science in Computer Science GPA: 3.4 
  - Inducted into Upsilon Pi Epsilon International Computer Science Honor Society    (Top 10% of class 2014)
-
-[Google Drive file here](https://docs.google.com/document/d/1JyuxOFC4lN1gK0rXX68fhmx2x7PqVU-9-eq-Ynr2WJs/edit?usp=sharing)
