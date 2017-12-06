@@ -26,8 +26,9 @@ Sept 2015 - Present
 
 May 2015 - Sept 2015
 
-- Development of RDLC, ASP.NET, JS, unit tests and C# WCF services.
+- Development of RDLC, ASPX, JS, NUnit, WaitIn, and C# WCF services.
 - Experience in MSSQL development, stored procs and table amendments.
+- Learned Agile methodologies and test driven development.
 
 **SKILLS AND QUALIFICATIONS**
 
