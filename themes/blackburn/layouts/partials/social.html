@@ -6,6 +6,12 @@
     <!-- SNS microblogging -->
 
 
+    {{ with .Site.Social.email }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="mailto:{{ . }}" target="_blank"><i class="fa fa-envelope fa-fw"></i>Email me <br/> <small>{{ . }}</small></a>
+    </li>
+    {{ end }}
+
     {{ with .Site.Social.github }}
     <li class="pure-menu-item">
       <a class="pure-menu-link" href="https://github.com/{{ . }}" target="_blank"><i class="fa fa-github-square fa-fw"></i>GitHub</a>
@@ -105,6 +111,8 @@
       <a class="pure-menu-link" href="http://slideshare.net/{{ . }}" target="_blank"><i class="fa fa-slideshare fa-fw"></i>SlideShare</a>
     </li>
     {{ end }}
+
+   
 
     <!-- SNS career oriented -->
 

@@ -1,5 +1,5 @@
 baseurl = "http://Confirm4Crit.com/"
-title = "Confirm4Crit"
+title = "Confirm4Crit (Miles Robson)"
 author = "Miles Robson"
 # Shown in the side menu
 canonifyurls = true
@@ -72,3 +72,4 @@ paginate = 10
   steam = "Confirm4Crit"
   youtube = "Confirm4Crit"
   linkedin = "miles-robson-b4124a33"
+  # email = "milesdrobson@gmail.com"
