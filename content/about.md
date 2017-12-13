@@ -11,4 +11,6 @@ Miles, like [Stopping by Woods on a Snowy Evening](https://www.poetryfoundation.
 
 This site is a home for my projects, and development thoughts.
 
-Feel free to send me an [e-mail @ miles_robson@yahoo.com](mailto:miles_robson@yahoo.com) if you want to get a hold of me.
+Feel free to send me an **[e-mail @ milesdrobson@gmail.com](mailto:milesdrobson@gmail.com)** if you want to get a hold of me.
+
+I also go by the username **Confirm4Crit** on most platforms/Social Media sites, including [Gmail](mailto:Confirm4Crit@gmail.com), so feel free to look for me where you need to.

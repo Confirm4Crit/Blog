@@ -2,9 +2,8 @@
 title = "Miles Robson's Resume"
 date = "2014-04-09"
 sidemenu = "false"
-description = "miles_robson@yahoo.com"
+layout = "resume"
 +++
-
 [ - PDF file - ](https://drive.google.com/open?id=0B4ZgURhHzuGKX1BUUXVEVExLQUE)[ - GitHub profile -](https://github.com/Confirm4Crit)
 
 **WORK EXPERIENCE**
