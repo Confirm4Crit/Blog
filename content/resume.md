@@ -8,7 +8,7 @@ layout = "resume"
 
 **WORK EXPERIENCE**
 
-**Office Depot - Developer, Compliance and Pricing Team - Boca Raton, FL**
+**Office Depot - Developer, Sales Enablement Team - Boca Raton, FL**
 
 Sept 2015 - Present
 
