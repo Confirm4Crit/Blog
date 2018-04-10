@@ -6,6 +6,12 @@ sidemenu = "false"
 
 Examples of smaller projects on my [GitHub](https://github.com/Confirm4Crit?tab=repositories)
 
+**[Steel Cavalry](https://itch.io/queue/c/188585/gamkedo-club?game_id=243394) | [ GitHub Repo](https://github.com/gamkedo-la/steelcavalry)**
+
+![Example GIF](/static/steel-gif.gif)
+
+First game I contributed as part of the the [Gamekedo](https://gamkedo.com/) club
+
 **[Shopping Cart Application](https://github.com/Confirm4Crit/OODShoppingCartProject) ([OOD Final project](https://github.com/Confirm4Crit/OODShoppingCartProject))**
 
 Group project involving creating a shopping cart app in Java, using SWING, JDBC.
