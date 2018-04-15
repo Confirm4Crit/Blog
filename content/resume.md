@@ -12,7 +12,7 @@ layout = "resume"
 
 Sept 2015 - Present
 
-- Heavy SalesForce experience, APEX and VisualForce, APEX Test Classes, Lighting applications with JavaScript supporting Office Depot B2B sales reps, deployment, and reporting.
+- Extensive SalesForce experience, APEX and VisualForce, APEX Test Classes, and Lighting applications supporting Office Depot B2B sales reps, deployment, and reporting.
 - Support of custom built processes such as review screens for sales reps to interface with B2B contract pricing, backend deduplication and data quality processes, and automated business rules for customer notifications.
 - SalesForce user maintenance and corresponding basic functions to users, maintaining field level security.
 - Automation of file transfer systems using GCS, S3, RCLONE, and Ansible Tower.
@@ -37,13 +37,13 @@ May 2015 - Sept 2015
 - Web: Html/VFX, Javascript, PHP, Lightning Out,Angular 2 and ReactJS.
 - Development Tools: Visual Studio, NetBeans, SQLDeveloper, GitHub, SVN, IntelliJ suite.
 - Automation experience with Ansible.
-- Game Development tools: Unity, Hammer editor, Unreal editor, RPG editor.
+- Game Development tools: Unity, Hammer editor, Unreal editor.
 - Photoshop CS5 Certified.
 
 **PROJECT WORK** **[GitHub](https://github.com/Confirm4Crit) | [Portfolio]({{< ref "portfolio.md" >}})**
 
 - This website! Hugo Static site hosted on Amazon S3, Repo **[here](https://github.com/Confirm4Crit/Blog)**
-- **[Steel Cavalry](https://itch.io/queue/c/188585/gamkedo-club?game_id=243394)**, a mech sidescroller made in Unity as part of **[Gamekedo](https://gamkedo.com/)** club
+- **[Steel Cavalry](https://itch.io/queue/c/188585/gamkedo-club?game_id=243394)**, a mech sidescroller made in Unity as part of **[Gamkedo](https://gamkedo.com/)** club
 - **[Ascended Alpaca](ascendedalpaca.com)**, my label for smaller Unity3D games.
 - Reddit clone using MEAN Stack
 - Implemented a binary-encoded image manipulator using Motorola 68000 assembly language

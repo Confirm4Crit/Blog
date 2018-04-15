@@ -10,7 +10,7 @@ Examples of smaller projects on my [GitHub](https://github.com/Confirm4Crit?tab
 
 ![Example GIF](/static/steel-gif.gif)
 
-First game I contributed as part of the the [Gamekedo](https://gamkedo.com/) club
+First game I contributed as part of the the [Gamkedo](https://gamkedo.com/) club
 
 **[Shopping Cart Application](https://github.com/Confirm4Crit/OODShoppingCartProject) ([OOD Final project](https://github.com/Confirm4Crit/OODShoppingCartProject))**
 
