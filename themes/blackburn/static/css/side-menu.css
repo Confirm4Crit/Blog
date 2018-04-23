@@ -38,6 +38,10 @@ This is the parent `<div>` that contains the menu and the content area.
 /*
 The content `<div>` is where all your content goes.
 */
+.img{
+    widows: 100%;
+    height: auto;
+}
 .content {
     margin: 0 auto;
     padding: 0 2em;
